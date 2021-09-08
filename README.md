@@ -2,7 +2,7 @@
 
 I'm **Manuel Reyes**, a **Software Developer** from Venezuela🇻🇪, now living in **Belgium🇧🇪**.
 
-I specialize in **building and maintaining front-end components** from 0 to 1 over web-based products. As well as **communicating high level technical concepts** to non-technical users. I love being a team player, and contributing and improving processes is one of my strong skills.
+I specialize in **building and maintaining front-end components** from 0 to 1 over web-based products. As well as **communicating high level technical concepts** to non-technical users. I love being a team player, contributing in process improvements is one of my strong skills (basically turning caffeine into code that won't break).
 
 Also, I have a [YouTube channel](https://www.youtube.com/c/koopaquerales) and I’m a singer-songwriter solo artist in [Spotify](https://open.spotify.com/artist/26SaZCIwAtd9q93VhE7y60).
 
