@@ -9,7 +9,6 @@ Also, I have a [YouTube channel](https://www.youtube.com/c/koopaquerales) and I�
 - 🔭 I’m currently working on [WooRank](https://www.woorank.com)
 - 🌱 I’m currently learning [Docker](https://www.docker.com),  [NextJS](https://nextjs.org/) and  [NestJS](https://nestjs.com/)
 - 📫 How to reach me: [Direct.me](https://www.direct.me/koopaquerales)
-- ⚡ Fun fact: I'm half Spanish🇪🇸 
 
 [![GitHub](https://img.shields.io/badge/GitHub-yoggsoft-black)](https://github.com/yoggsoft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuel--reyes-blue)](https://www.linkedin.com/in/querales/)
