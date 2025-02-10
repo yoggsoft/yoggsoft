@@ -11,10 +11,10 @@ Also, I have a [YouTube channel](https://www.youtube.com/c/koopaquerales) and Iâ
 - ðŸ“« How to reach me: [Direct.me](https://www.direct.me/koopaquerales)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yoggsoft-black)](https://github.com/yoggsoft)
+[![Website](https://img.shields.io/badge/Website-ManuelReyes.dev-green)](https://www.manuelreyes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manuel--reyes-blue)](https://www.linkedin.com/in/querales/)
 [![YouTube](https://img.shields.io/badge/YouTube-KoopaQuerales-red)](https://youtube.com/c/KoopaQuerales)
 [![Spotify](https://img.shields.io/badge/Spotify-KoopaQuerales-red)](https://open.spotify.com/artist/26SaZCIwAtd9q93VhE7y60)
-[![Website](https://img.shields.io/badge/Website-koopaquerales.com-green)](https://www.koopaquerales.com)
 [![DirectMe](https://img.shields.io/badge/DirectMe-koopaquerales.com-yellowgreen)](https://www.direct.me/koopaquerales)
 
 # GitHub Stats
