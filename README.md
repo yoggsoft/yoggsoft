@@ -1,14 +1,14 @@
 ## Hola, Bonjour, Hallo, Ciao, Olá, Hello 👋
 
-I'm **Manuel Reyes**, a **Software Developer** from Venezuela🇻🇪, now living in **Belgium🇧🇪**.
+I'm **Manuel Reyes**, a **Software Developer** from Venezuela🇻🇪, based in **Belgium🇧🇪**.
 
 I specialize in **building and maintaining front-end components** from 0 to 1 over web-based products. As well as **communicating high level technical concepts** to non-technical users. I love being a team player, contributing in process improvements is one of my strong skills (basically turning caffeine into code that won't break).
 
 Also, I have a [YouTube channel](https://www.youtube.com/c/koopaquerales) and I’m a singer-songwriter solo artist in [Spotify](https://open.spotify.com/artist/26SaZCIwAtd9q93VhE7y60).
 
-- 🔭 I’m currently working on [WooRank](https://www.woorank.com), [e360 Dashboard](https://e360.bridgeline.com/home), [HawkSearch](https://www.hawksearch.com/product/rapid-ui-framework)
-- 🌱 I’m currently learning [Docker](https://www.docker.com),  [NextJS](https://nextjs.org/) and [NestJS](https://nestjs.com/)
-- 📫 How to reach me: [Direct.me](https://www.direct.me/koopaquerales)
+- 🔭 I’m currently working on [Markmi](https://www.markmi.ai)
+- 🌱 I’m currently learning [Tailwind](https://tailwindcss.com/), [NextJS](https://nextjs.org/) and [NestJS](https://nestjs.com/)
+- 📫 How to reach me: [Direct.me](https://www.manuelreyes.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yoggsoft-black)](https://github.com/yoggsoft)
 [![Website](https://img.shields.io/badge/Website-ManuelReyes.dev-green)](https://www.manuelreyes.dev)
